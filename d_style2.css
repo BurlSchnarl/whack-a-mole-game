@@ -1,0 +1,40 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: #ff1c1c;
+    text-align: center;
+}
+
+main {
+    background: yellow;
+    padding: 2em 0;
+}
+
+.button {
+    display: table;
+    margin: 0 auto;
+}
+
+div#layout {
+    display: table;
+}
+
+div#layout {
+    display: table;
+}
+
+div.hgroupheader {
+    display: table-row;
+    background: gray;
+}
+
+div.hgroup {
+    display: table-row;
+}
+
+div.cell {
+    display: table-cell;
+    border: solid 1px red;
+}
